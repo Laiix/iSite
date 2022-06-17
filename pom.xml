@@ -24,7 +24,7 @@
         <druid.spring.boot>1.1.10</druid.spring.boot>
         <mybaits.version>3.4.4</mybaits.version>
         <mybatis.spring.boot>1.3.2</mybatis.spring.boot>
-        <alibaba.fastjson>1.2.55</alibaba.fastjson>
+        <alibaba.fastjson>1.2.83</alibaba.fastjson>
     </properties>
 
     <parent>
