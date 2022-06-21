@@ -19,7 +19,7 @@
         <coobird.thumbnailator>0.4.8</coobird.thumbnailator>
         <org.jsoup>1.9.2</org.jsoup>
         <lombok.version>1.18.4</lombok.version>
-        <mysql.connector>5.1.38</mysql.connector>
+        <mysql.connector>8.0.28</mysql.connector>
         <shiro>1.4.0</shiro>
         <druid.spring.boot>1.1.10</druid.spring.boot>
         <mybaits.version>3.4.4</mybaits.version>
